@@ -1,1 +1,15 @@
-h1 {color: #669900;}
+h1 {
+  background-color: #000000;
+  padding: 20px;
+  color: #669900;
+  font-family: "Courier New", Courier, monospace;
+}
+body{
+  margin: 0;
+  padding: 0;
+  color: #004080;
+  font-family: "Courier New", Courier, monospace;
+}
+#content{
+  margin: 20px;
+}
